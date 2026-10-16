@@ -1,0 +1,10 @@
+total 36
+drwxr-x--- 5 hifzashakeel hifzashakeel 4096 Oct 16 05:52 .
+drwxr-xr-x 3 root         root         4096 Oct 16 05:05 ..
+-rw-r--r-- 1 hifzashakeel hifzashakeel  220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 hifzashakeel hifzashakeel 3771 Feb 13  2026 .bashrc
+drwx------ 2 hifzashakeel hifzashakeel 4096 Oct 16 05:20 .cache
+-rw-rw-r-- 1 hifzashakeel hifzashakeel   53 Oct 16 05:52 .gitconfig
+-rw-r--r-- 1 hifzashakeel hifzashakeel  807 Feb 13  2026 .profile
+drwx------ 2 hifzashakeel hifzashakeel 4096 Oct 16 05:53 .ssh
+drwxrwxr-x 5 hifzashakeel hifzashakeel 4096 Oct 16 05:53 lab05-linux
